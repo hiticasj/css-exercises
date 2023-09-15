@@ -4,7 +4,7 @@ body {
 
 .one {
     background-color: pink;
-    font-size: 4vw;
+    font-size: 3vw;
 }
 
 #two {
@@ -22,4 +22,9 @@ body {
     background-color: lightgreen;
     font-weight: 900;
     font-size: 4vw;
+}
+
+.five {
+    background-color: pink;
+    font-size: 3vw;
 }
