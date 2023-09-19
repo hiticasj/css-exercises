@@ -8,3 +8,23 @@ html {
     color: white;
     font-weight: bolder;
 }
+
+.button2 {
+    background-color: yellow;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    background-color: white;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    right: 50%;
+
+}
